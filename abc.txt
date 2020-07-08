@@ -1,0 +1,13 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 6636-8580
+
+ Directory of D:\TestFolder\test
+
+07/08/2020  03:50 PM    <DIR>          .
+07/08/2020  03:50 PM    <DIR>          ..
+07/08/2020  03:50 PM                 0 abc.txt
+07/08/2020  03:00 PM                88 hello.html.txt
+07/08/2020  03:00 PM                 0 new.txt
+07/08/2020  03:11 PM                 0 testingdocs.txt
+               4 File(s)             88 bytes
+               2 Dir(s)  258,961,141,760 bytes free
